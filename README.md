@@ -1,3 +1,3 @@
-# Loureiro_Portfolio
-Portfolio of personal data science projects\
+# Loureiro_cgf
+
 Project 1: EDA of customer database and business recommendations for fitness store
